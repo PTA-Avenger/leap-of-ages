@@ -66,6 +66,7 @@ leap-of-ages/
 │       ├── my_stump.tscn
 │       ├── opening_scene.gd
 │       └── opening_scene.tscn
+|----screenshots
 ```
 
 ---
