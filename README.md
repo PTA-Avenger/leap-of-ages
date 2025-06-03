@@ -69,21 +69,6 @@ leap-of-ages/
 |----screenshots
 ```
 
----
-
-## 📸 Screenshots
-
-*You can add screenshots of your game here to showcase gameplay.*
-
-> 📷 *To add a screenshot:*
->
-> * Take a screenshot in Godot or during gameplay.
-> * Upload it to your repository in a folder like `rex/screenshots/`.
-> * Then add markdown here like:
->
->   ```md
->   ![Gameplay Screenshot](rex/screenshots/level1.png)
->   ```
 
 ---
 
